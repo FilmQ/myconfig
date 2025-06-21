@@ -1,2 +1,2 @@
 # myconfig
-my beloved config file
+my beloved config files
